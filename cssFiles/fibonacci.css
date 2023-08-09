@@ -1,0 +1,36 @@
+.everything{
+    background-image: url('../images/colorfulmaths.webp');
+    /* Additional background properties if needed */
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    background-position: center center;
+}
+.firstContainer{
+    margin-top: 0px;
+    border: 5px solid navy;
+    height: 600px;
+    width: 600px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    margin-top: 0px;
+}
+*{
+    height: 100%;
+    margin: 0px;
+}
+
+/* .everything{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    height: 300px;
+} */
